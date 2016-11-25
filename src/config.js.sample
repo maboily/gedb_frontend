@@ -1,0 +1,4 @@
+export const Config = {
+    // No trailing backslash
+    apiEndpoint: 'http://127.0.0.1'
+};

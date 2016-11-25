@@ -1,0 +1,14 @@
+# File system & IDE files
+.DS_STORE
+*.log
+.idea/
+
+# Node modles
+node_modules
+
+# Compiled files
+dist
+coverage
+
+# Configuration files
+src/config.js
